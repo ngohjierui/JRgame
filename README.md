@@ -25,14 +25,6 @@ git clone https://github.com/yourusername/EcoDefenders.git
 Open the file:
 Simply double-click EcoDefenders.html to run the game in any modern web browser.
 
-**🗺️ Project Structure**
-#hud: Tracks lives (❤️), Energy (⚡), XP (⭐), and Wave progress.
-
-#game-canvas: Handles the rendering of the S-shaped path, towers, projectiles, and particle effects.
-
-G (Global State Object): Manages game variables, tower definitions, and enemy scaling logic.
-
-WAVE_DEFS: Contains the balancing parameters for enemy counts and spawn intervals.
 
 **🌿 Educational Impact**
 The game is designed to reinforce several key sustainability pillars:
